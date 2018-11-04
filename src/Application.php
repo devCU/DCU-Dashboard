@@ -3,8 +3,8 @@
  * @brief		Dashboard Application Class
  * @package		DCU Dashboard
  * @author		Gary Cornell
- * @copyright	(c) 2018 devCU Software
- * @subpackage	Dashes Content
+ * @copyright   	(c) 2018 devCU Software
+ * @subpackage  	Dashboard Content
  * @since		04 NOV 2018
  * @version		1.0
  */
