@@ -1,11 +1,11 @@
 <?php
 /**
  * @brief		Dashboard Application Class
- * @package		devCU dashboard (for wxdisco WXdashboard)
- * @author		PlanetMaster
- * @copyright	(c) 2018 WXdisco
+ * @package		DCU Dashboard
+ * @author		Gary Cornell
+ * @copyright	(c) 2018 devCU Software
  * @subpackage	Dashes Content
- * @since		30 Oct 2018
+ * @since		04 NOV 2018
  * @version		1.0
  */
  
