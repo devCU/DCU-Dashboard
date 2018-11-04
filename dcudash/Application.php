@@ -63,7 +63,6 @@ spl_autoload_register( function( $class )
 				'pinned'				=> 'record_pinned',
 				'locked'				=> 'record_locked',
 				'featured'				=> 'record_featured',
-				'observations'			=> 'record_observations',
 				'rating'				=> 'record_rating',
 				'rating_hits'			=> 'rating_hits',
 				'rating_average'	    => 'record_rating',
