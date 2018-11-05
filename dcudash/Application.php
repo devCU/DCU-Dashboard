@@ -10,7 +10,7 @@
  * @subpackage		Dashboard Content
  * @base		IPS 4 CMS
  * @since		05 NOV 2018
- * @version		1.0
+ * @version		1.0.0
  */
  
 namespace IPS\dcudash;
