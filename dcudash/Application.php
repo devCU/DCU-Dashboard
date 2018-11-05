@@ -2,13 +2,14 @@
 /**
  * @brief		Dashboard Application Class
  * @package		DCU Dashboard
- * @autho		Gary Cornell for devCU Software Open Source Projects
+ * @author		Gary Cornell for devCU Software Open Source Projects
  * @copyright		(c) 2018 devCU Software
  * @contact		gary@devcu.com
  * @site		https://www.devcu.com
  * @Source		https://github.com/devCU/DCU-Dashboard 
  * @subpackage		Dashboard Content
- * @since		04 NOV 2018
+ * @base		IPS 4 CMS
+ * @since		05 NOV 2018
  * @version		1.0
  */
  
