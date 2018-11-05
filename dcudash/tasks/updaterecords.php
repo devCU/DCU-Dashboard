@@ -6,7 +6,7 @@
  * @copyright		(c) 2018 devCU Software
  * @contact		gary@devcu.com
  * @site		https://www.devcu.com
- * @Source		https://github.com/WXdisco/wxdashboard  
+ * @Source		https://github.com/devCU/DCU-Dashboard
  * @subpackage		Dashboard Content
  * @since		04 NOV 2018
  * @version		1.0
