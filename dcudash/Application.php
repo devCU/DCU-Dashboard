@@ -7,10 +7,9 @@
  * @contact		gary@devcu.com
  * @site		https://www.devcu.com
  * @Source		https://github.com/devCU/DCU-Dashboard 
- * @subpackage		Dashboard Content
  * @base		IPS 4 CMS
- * @since		05 NOV 2018
- * @version		1.0.0
+ * @since		12 DEC 2018
+ * @version		1.0.0 Beta 1
  */
  
 namespace IPS\dcudash;
@@ -391,7 +390,7 @@ class _Application extends \IPS\Application
 		$comment = 'IPS\dcudash\Records\Comment' . $database->id;
 		$container = 'IPS\dcudash\Categories' . $database->id;
 		
-		$link = (string) \IPS\Http\Url::ips('docs/doashboard_docs');
+		$link = (string) \IPS\Http\Url::dcu('dcudash/dashboard_docs');
 
 		$content = <<<EOF
 <p>Welcome to DCU Dash!</p>
