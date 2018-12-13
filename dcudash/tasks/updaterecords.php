@@ -7,10 +7,9 @@
  * @contact		gary@devcu.com
  * @site		https://www.devcu.com
  * @Source		https://github.com/devCU/DCU-Dashboard 
- * @subpackage		Dashboard Content
  * @base		IPS 4 CMS
- * @since		05 NOV 2018
- * @version		1.0.0
+ * @since		12 DEC 2018
+ * @version		1.0.0 Beta 1
  */
 
 namespace IPS\dcudash\tasks;
