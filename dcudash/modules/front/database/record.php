@@ -3,13 +3,14 @@
  * @brief		Record View
  * @package		DCU Dashboard
  * @author		Gary Cornell for devCU Software Open Source Projects
- * @copyright		(c) 2018 devCU Software
+ * @copyright		(c) 2019 devCU Software
  * @contact		gary@devcu.com
  * @site		https://www.devcu.com
  * @Source		https://github.com/devCU/DCU-Dashboard 
+ * @subpackage		Dashboard Content
  * @base		IPS 4 CMS
- * @since		12 DEC 2018
- * @version		1.0.0 Beta 1
+ * @since		09 JAN 2019
+ * @version		1.0.0
  */
 
 namespace IPS\dcudash\modules\front\database;

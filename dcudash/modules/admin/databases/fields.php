@@ -3,7 +3,7 @@
  * @brief		Fields Model
  * @package		DCU Dashboard
  * @author		Gary Cornell for devCU Software Open Source Projects
- * @copyright		(c) 2018 devCU Software
+ * @copyright		(c) 2019 devCU Software
  * @contact		gary@devcu.com
  * @site		https://www.devcu.com
  * @Source		https://github.com/devCU/DCU-Dashboard 
