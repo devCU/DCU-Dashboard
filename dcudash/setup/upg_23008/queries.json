@@ -1,0 +1,15 @@
+{
+    "1": {
+        "method": "update",
+        "params": [
+            "dcud_database_fields",
+            {
+                "field_is_numeric": 1
+            },
+            [
+                "field_key=?",
+                "dashboard_date"
+            ]
+        ]
+    }
+}

@@ -1,15 +1,16 @@
 <?php
 /**
- * @brief		Front Navigation Extension: Dashes
+ * @brief		Front Navigation Extension: DCUdash
  * @package		DCU Dashboard
  * @author		Gary Cornell for devCU Software Open Source Projects
  * @copyright		(c) 2018 devCU Software
  * @contact		gary@devcu.com
  * @site		https://www.devcu.com
  * @Source		https://github.com/devCU/DCU-Dashboard 
+ * @subpackage		Dashboard Content
  * @base		IPS 4 CMS
- * @since		12 DEC 2018
- * @version		1.0.0 Beta 1
+ * @since		13 JAN 2019
+ * @version		1.0.0
  */
 
 /* This file has been removed in 4.1 but we do not want the 4.0 extension to load */

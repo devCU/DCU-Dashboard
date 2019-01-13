@@ -1,0 +1,41 @@
+{
+    "1": {
+        "method": "addColumn",
+        "params": [
+            "dcud_dash_wizard",
+            {
+                "name": "wizard_previous_type",
+                "type": "VARCHAR",
+                "length": 32,
+                "allow_null": true,
+                "default": null
+            }
+        ]
+    },
+    "2": {
+        "method": "addColumn",
+        "params": [
+            "dcud_dash_wizard",
+            {
+                "name": "wizard_ipb_wrapper",
+                "type": "TINYINT",
+                "length": 1,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    },
+    "3": {
+        "method": "addColumn",
+        "params": [
+            "dcud_dashes",
+            {
+                "name": "dash_ipb_wrapper",
+                "type": "TINYINT",
+                "length": 1,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    }
+}

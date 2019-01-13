@@ -1,0 +1,10 @@
+{
+    "1": {
+        "method": "update",
+        "params": [
+            "dcud_dashes",
+            "dash_view_perms=CONCAT(',',dash_view_perms,',')",
+            "dash_view_perms != '*'"
+        ]
+    }
+}

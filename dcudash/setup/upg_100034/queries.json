@@ -1,0 +1,9 @@
+{
+    "1": {
+        "method": "dropTable",
+        "params": [
+            "dcudash_dash_database_map",
+            true
+        ]
+    }
+}
