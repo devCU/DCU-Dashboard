@@ -19,6 +19,36 @@ A dashboard building Application for IPS 4.x based on IPS CMS
 [![donate](https://www.devcu.net/mediasrc/become_a_patron_button.png)](https://www.patreon.com/devcu/)
 
 
+# DCU Dashboard v1.0
+
+```diff
+- WARNING!! THIS IS AN INCOMPLETE DEVELOPMENT VERSION AND SHOULD NOT BE USED IN A PRODUCTION ENVIRONMENT!
+```
+
+<pre>
+    .-"^`\                                        /`^"-.
+  .'   ___\                                      /___   `.
+ /    /.---.                                    .---.\    \
+|    //     '-.  ___________________________ .-'     \\    |
+|   ;|         \/--------------------------//         |;   |
+\   ||       |\_)      devCU Software      (_/|       ||   /
+ \  | \  . \ ;  |   Open Source Projects   || ; / .  / |  /
+  '\_\ \\ \ \ \ |                          ||/ / / // /_/'
+        \\ \ \ \|       DCU Dashboard      |/ / / //
+         `'-\_\_\         v 1.0.0        /_/_/-'`
+                '--------------------------'
+</pre>
+
+
+#### Full featured dashboard building application for IPS 4.4 versions
+
+## ** Updated Notes **
+
+03/28/19
+
+- No Release Date Set
+
+
 ## License
 
 GNU General Public License v3.0
