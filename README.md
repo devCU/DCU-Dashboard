@@ -5,11 +5,11 @@
     [![Status](https://img.shields.io/badge/Status-Current-green.svg)](https://www.devcu.com/forums/devcu-tracker/dcu-dashboard/)
     [![Development](https://img.shields.io/badge/Development-Active-blue.svg)](https://www.devcu.com/forums/devcu-tracker/dcu-dashboard/)
 
-<p align="center">## ** Become a Patron of devCU **
+## ** Become a Patron of devCU **
 	
 **Please support our Open Source Projects and keep this software free**
 
-- Patrons have access to Beta and Release version up to 2 weeks before the public</p>
+- Patrons have access to Beta and Release version up to 2 weeks before the public
 
 [![donate](https://www.devcu.net/mediasrc/become_a_patron_button.png)](https://www.patreon.com/devcu/)
 
