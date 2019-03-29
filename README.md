@@ -14,13 +14,6 @@ A dashboard building Application for IPS 4.4x based on IPS CMS
 
 [![donate](https://www.devcu.net/mediasrc/become_a_patron_button.png)](https://www.patreon.com/devcu/)
 
-
-# DCU Dashboard v1.0
-
-```diff
-- WARNING!! THIS IS AN INCOMPLETE DEVELOPMENT VERSION AND SHOULD NOT BE USED IN A PRODUCTION ENVIRONMENT!
-```
-
 <pre>
     .-"^`\                                        /`^"-.
   .'   ___\                                      /___   `.
@@ -35,6 +28,11 @@ A dashboard building Application for IPS 4.4x based on IPS CMS
                 '--------------------------'
 </pre>
 
+```diff
+- WARNING!! THIS IS AN INCOMPLETE DEVELOPMENT VERSION AND SHOULD NOT BE USED IN A PRODUCTION ENVIRONMENT!
+```
+
+# DCU Dashboard 1.0
 
 #### Full featured dashboard building application for IPS 4.4x
 
