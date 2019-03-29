@@ -1,5 +1,5 @@
 # DCU Dashboard
-A dashboard building Application for IPS 4.x based on IPS CMS
+A dashboard building Application for IPS 4.4x based on IPS CMS
 
 ![devCUHead](https://www.devcu.net/mediasrc/githubhead_2.gif?V=1.4)
 
@@ -40,7 +40,7 @@ A dashboard building Application for IPS 4.x based on IPS CMS
 </pre>
 
 
-#### Full featured dashboard building application for IPS 4.4 versions
+#### Full featured dashboard building application for IPS 4.4x
 
 ## ** Updated Notes **
 
